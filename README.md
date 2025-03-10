@@ -1,4 +1,5 @@
-#👋 Hey there! I'm Kaamil,
+# 👋 Hey there! I'm Kaamil,
+
 🚀 Passionate Full-Stack Developer with 4+ years of experience, dedicated to crafting high-performance, interactive, and scalable applications. Obsessed with cutting-edge technologies and always pushing the boundaries of what's possible.
 
 💡 On a mission to integrate AI into software development, unlocking smarter, more innovative solutions for the future. Let's build something amazing! 🔥
